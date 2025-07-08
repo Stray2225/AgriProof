@@ -1,0 +1,8 @@
+{
+  "user_id": "user123",
+  "activity": "watering",
+  "crop_type": "rice",
+  "area": 2.0,
+  "location": "Kano, Nigeria",
+  "timestamp": "2025-07-08T10:00:00Z"
+}
